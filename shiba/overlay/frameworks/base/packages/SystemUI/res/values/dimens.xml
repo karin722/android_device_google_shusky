@@ -24,7 +24,7 @@
     <dimen name="physical_volume_down_button_center_screen_location_y">1160px</dimen>
     
     <!-- the padding on the start of the statusbar -->
-    <dimen name="status_bar_padding_start">16dp</dimen>
+    <dimen name="status_bar_padding_start">14dp</dimen>
 
     <!-- Padding for the lock icon on the keyguard. In pixels - should not scale with
          display size. -->
